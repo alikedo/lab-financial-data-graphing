@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+
+.label {
+  color: white;
+  padding: 8px;
+}
+
+.date-selector {
+  background-color: #04AA6D;
+}
